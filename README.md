@@ -1,1 +1,2 @@
 # SnakeHomeGame
+JavaScript Game

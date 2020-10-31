@@ -1,2 +1,3 @@
 # SnakeHomeGame
-JavaScript Game
+JavaScript Game.
+You can fork and contribute to add other features.
